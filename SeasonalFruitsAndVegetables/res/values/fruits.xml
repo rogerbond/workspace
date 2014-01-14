@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="menu_fruits">Anzeige Früchte</string>    
+    <string name="fruits_label">Früchte - %1$s</string>
+    <color name="fruits_color">#FF4000</color>
+    
+    <string-array name="January_Fruits">
+        <item>Äpfel (Lagersorten)</item>
+        <item>Baumnuss</item>
+        <item>Birnen (Lagersorten)</item>
+        <item>Kiwi</item>
+    </string-array>
+    <string-array name="February_Fruits">
+        <item>Äpfel (Lagersorten)</item>
+        <item>Baumnuss</item>
+        <item>Birnen (Lagersorten)</item>
+        <item>Kiwi</item>
+    </string-array>
+    <string-array name="March_Fruits">
+        <item>Äpfel (Lagersorten)</item>
+        <item>Birnen (Lagersorten)</item>
+        <item>Kiwi</item>
+    </string-array>
+    <string-array name="April_Fruits">
+        <item>Äpfel (Lagersorten)</item>
+    </string-array>
+    <string-array name="May_Fruits">
+        <item>Äpfel (Lagersorten)</item>
+    </string-array>
+    <string-array name="June_Fruits">
+        <item>Kirschen</item>
+    </string-array>
+    <string-array name="July_Fruits">
+        <item>Äpfel (Frühsorten)</item>
+        <item>Aprikosen</item>
+        <item>Birnen (Frühsorten)</item>
+        <item>Feigen</item>
+        <item>Kirschen</item>
+        <item>Nektarinen</item>
+        <item>Pfirsich</item>
+        <item>Zwetschgen</item>
+    </string-array>
+    <string-array name="August_Fruits">
+        <item>Äpfel (Frühsorten)</item>
+        <item>Aprikosen</item>
+        <item>Birnen (Frühsorten)</item>
+        <item>Birnen (Herbstsorten)</item>
+        <item>Feigen</item>
+        <item>Kirschen</item>
+        <item>Mirabellen</item>
+        <item>Nektarinen</item>
+        <item>Pfirsich</item>
+        <item>Pflaumen</item>
+        <item>Zwetschgen</item>
+    </string-array>
+    <string-array name="September_Fruits">
+        <item>Äpfel (Herbstsorten)</item>
+        <item>Äpfel (Lagersorten)</item>
+        <item>Birnen (Herbstsorten)</item>
+        <item>Birnen (Lagersorten)</item>
+        <item>Feigen</item>
+        <item>Pflaumen</item>
+        <item>Trauben</item>
+        <item>Zwetschgen</item>
+    </string-array>
+    <string-array name="October_Fruits">
+        <item>Äpfel (Herbstsorten)</item>
+        <item>Äpfel (Lagersorten)</item>
+        <item>Baumnuss</item>
+        <item>Birnen (Lagersorten)</item>
+        <item>Quitten</item>
+        <item>Trauben</item>
+    </string-array>
+    <string-array name="November_Fruits">
+        <item>Äpfel (Lagersorten)</item>
+        <item>Baumnuss</item>
+        <item>Birnen (Lagersorten)</item>
+        <item>Kiwi</item>
+        <item>Quitten</item>
+    </string-array>
+    <string-array name="December_Fruits">
+        <item>Äpfel (Lagersorten)</item>
+        <item>Baumnuss</item>
+        <item>Birnen (Lagersorten)</item>
+        <item>Kiwi</item>
+    </string-array>
+
+</resources>

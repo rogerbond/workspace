@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="menu_prospecierara">Anzeige Pro Specie Rara</string>
+    <string name="prospecierara_label">Pro Specie Rara - %1$s</string>
+    <color name="prospecierara_color">#FF8000</color>
+    
+    <string-array name="January_ProSpecieRara">
+        <item>Äpfel Wilerrot</item>
+        <item>Kartoffel blaue Schweden</item>
+        <item>Kartoffel Parli</item>
+        <item>Krautstiel rot</item>
+        <item>Pastinaken</item>
+        <item>Randen Chioggia</item>
+        <item>Rüebli Küttiger</item>
+        <item>Rüebli J. longues du Doubs</item>
+    </string-array>
+    <string-array name="February_ProSpecieRara">
+        <item>Äpfel Wilerrot</item>
+        <item>Kartoffel blaue Schweden</item>
+        <item>Kartoffel Parli</item>
+        <item>Pastinaken</item>
+        <item>Randen Chioggia</item>
+        <item>Rüebli Küttiger</item>
+        <item>Rüebli J. longues du Doubs</item>
+    </string-array>
+    <string-array name="March_ProSpecieRara">
+        <item>Kartoffel blaue Schweden</item>
+        <item>Kartoffel Parli</item>
+        <item>Kopfsalat Lattughino verde</item>
+        <item>Pastinaken</item>
+        <item>Radiesli Eiszapfen</item>
+        <item>Randen Chioggia</item>
+        <item>Rüebli Küttiger</item>
+        <item>Rüebli J. longues du Doubs</item>
+    </string-array>
+    <string-array name="April_ProSpecieRara">
+        <item>Kartoffel blaue Schweden</item>
+        <item>Kopfsalat Lattughino verde</item>
+        <item>Krautstiel rot</item>
+        <item>Radiesli Eiszapfen</item>
+        <item>Rüebli J. longues du Doubs</item>
+    </string-array>
+    <string-array name="May_ProSpecieRara">
+        <item>Kartoffel blaue Schweden</item>
+        <item>Kopfsalat Lattughino verde</item>
+        <item>Krautstiel rot</item>
+        <item>Rüebli J. longues du Doubs</item>
+    </string-array>
+    <string-array name="June_ProSpecieRara">
+        <item>Hornpeperoni grün</item>
+        <item>Kartoffel blaue Schweden</item>
+        <item>Kopfsalat Lattughino verde</item>
+        <item>Krautstiel rot</item>
+        <item>Tomate Baselbieter Röteli</item>
+        <item>Tomate Coeur de Boeuf</item>
+        <item>Tomate gezahnt</item>
+    </string-array>
+    <string-array name="July_ProSpecieRara">
+        <item>Auberginen</item>
+        <item>Hornpeperoni grün</item>
+        <item>Tomate Baselbieter Röteli</item>
+        <item>Tomate Black Cherry</item>
+        <item>Tomate Coeur de Boeuf</item>
+        <item>Tomate gezahnt</item>
+        <item>Tomate Orange à gros fruits</item>
+        <item>Tomatenpaprika</item>
+        <item>Zucchetti costati Romanesco</item>
+        <item>Zucchetti striati d\'Italia</item>
+        <item>Zucchetti tondi di Nizza</item>
+    </string-array>
+    <string-array name="August_ProSpecieRara">
+        <item>Auberginen</item>
+        <item>Hornpeperoni grün</item>
+        <item>Hornpeperoni farbig</item>
+        <item>Kartoffel blaue Schweden</item>
+        <item>Rüebli Küttiger</item>
+        <item>Tomate Baselbieter Röteli</item>
+        <item>Tomate Black Cherry</item>
+        <item>Tomate Coeur de Boeuf</item>
+        <item>Tomate gezahnt</item>
+        <item>Tomate Orange à gros fruits</item>
+        <item>Tomatenpaprika</item>
+        <item>Zucchetti costati Romanesco</item>
+        <item>Zucchetti striati d\'Italia</item>
+        <item>Zucchetti tondi di Nizza</item>
+    </string-array>
+    <string-array name="September_ProSpecieRara">
+        <item>Äpfel Berner Rosen</item>
+        <item>Äpfel Goldparmäne</item>
+        <item>Äpfel Sauergrauech</item>
+        <item>Bodenkohlrabi</item>
+        <item>Hornpeperoni farbig</item>
+        <item>Kartoffel blaue Schweden</item>
+        <item>Krautstiel rot</item>
+        <item>Rüebli Küttiger</item>
+        <item>Rüebli J. longues du Doubs</item>
+        <item>Tomate Baselbieter Röteli</item>
+        <item>Tomate Black Cherry</item>
+        <item>Tomate Coeur de Boeuf</item>
+        <item>Tomate gezahnt</item>
+        <item>Tomate Orange à gros fruits</item>
+        <item>Tomatenpaprika</item>
+        <item>Zucchetti costati Romanesco</item>
+        <item>Zucchetti striati d\'Italia</item>
+        <item>Zucchetti tondi di Nizza</item>
+    </string-array>
+    <string-array name="October_ProSpecieRara">
+        <item>Äpfel Berner Rosen</item>
+        <item>Äpfel Goldparmäne</item>
+        <item>Äpfel Sauergrauech</item>
+        <item>Bodenkohlrabi</item>
+        <item>Hornpeperoni farbig</item>
+        <item>Kartoffel blaue Schweden</item>
+        <item>Krautstiel rot</item>
+        <item>Pastinaken</item>
+        <item>Randen Chioggia</item>
+        <item>Rüebli Küttiger</item>
+        <item>Rüebli J. longues du Doubs</item>
+        <item>Tomate Baselbieter Röteli</item>
+        <item>Tomate Black Cherry</item>
+        <item>Tomate Coeur de Boeuf</item>
+        <item>Tomate gezahnt</item>
+        <item>Tomate Orange à gros fruits</item>
+        <item>Tomatenpaprika</item>
+        <item>Zucchetti costati Romanesco</item>
+        <item>Zucchetti striati d\'Italia</item>
+        <item>Zucchetti tondi di Nizza</item>
+    </string-array>
+    <string-array name="November_ProSpecieRara">
+        <item>Äpfel Berner Rosen</item>
+        <item>Äpfel Goldparmäne</item>
+        <item>Äpfel Sauergrauech</item>
+        <item>Bodenkohlrabi</item>
+        <item>Kartoffel blaue Schweden</item>
+        <item>Kartoffel Parli</item>
+        <item>Pastinaken</item>
+        <item>Randen Chioggia</item>
+        <item>Rüebli Küttiger</item>
+        <item>Rüebli J. longues du Doubs</item>
+    </string-array>
+    <string-array name="December_ProSpecieRara">
+        <item>Äpfel Goldparmäne</item>
+        <item>Äpfel Sauergrauech</item>
+        <item>Äpfel Wilerrot</item>
+        <item>Bodenkohlrabi</item>
+        <item>Kartoffel blaue Schweden</item>
+        <item>Kartoffel Parli</item>
+        <item>Pastinaken</item>
+        <item>Randen Chioggia</item>
+        <item>Rüebli Küttiger</item>
+        <item>Rüebli J. longues du Doubs</item>
+    </string-array>
+    
+</resources>

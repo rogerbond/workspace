@@ -1,0 +1,39 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/menu_berry"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/menu_berry"/>
+    
+    <item
+        android:id="@+id/menu_fruits"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/menu_fruits"/>
+    
+    <item
+        android:id="@+id/menu_vegetables"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/menu_vegetables"/>
+    
+    <item
+        android:id="@+id/menu_herbs"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/menu_herbs"/>
+    
+    <item
+        android:id="@+id/menu_mushrooms"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/menu_mushrooms"/>
+    
+    <item
+        android:id="@+id/menu_prospecierara"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/menu_prospecierara"/>
+    
+</menu>

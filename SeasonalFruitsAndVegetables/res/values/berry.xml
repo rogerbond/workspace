@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="menu_berry">Anzeige Beeren</string>
+    <string name="berry_label">Beeren - %1$s</string>
+    <color name="berry_color">#B40404</color>
+    
+    <string-array name="January_Berry">
+    </string-array>
+    <string-array name="February_Berry">
+    </string-array>
+    <string-array name="March_Berry">
+    </string-array>
+    <string-array name="April_Berry">
+    </string-array>
+    <string-array name="May_Berry">
+        <item>Erdbeeren</item>
+    </string-array>
+    <string-array name="June_Berry">
+        <item>Erdbeeren</item>
+        <item>Himbeeren</item>
+        <item>Johannisbeeren</item>
+    </string-array>
+    <string-array name="July_Berry">
+        <item>Brombeeren</item>
+        <item>Cassis</item>
+        <item>Erdbeeren</item>
+        <item>Heidelbeeren</item>
+        <item>Himbeeren</item>
+        <item>Johannisbeeren</item>
+        <item>Stachelbeeren</item>
+    </string-array>
+    <string-array name="August_Berry">
+        <item>Brombeeren</item>
+        <item>Cassis</item>
+        <item>Erdbeeren</item>
+        <item>Heidelbeeren</item>
+        <item>Himbeeren</item>
+        <item>Johannisbeeren</item>
+        <item>Stachelbeeren</item>
+    </string-array>
+    <string-array name="September_Berry">
+        <item>Brombeeren</item>
+        <item>Heidelbeeren</item>
+        <item>Himbeeren</item>
+        <item>Preiselbeeren</item>
+        <item>Sanddorn</item>
+    </string-array>
+    <string-array name="October_Berry">
+        <item>Brombeeren</item>
+        <item>Sanddorn</item>
+    </string-array>
+    <string-array name="November_Berry">
+    </string-array>
+    <string-array name="December_Berry">
+    </string-array>
+    
+</resources>

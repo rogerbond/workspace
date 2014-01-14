@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="menu_mushrooms">Anzeige Pilze</string>
+    <string name="mushrooms_label">Pilze - %1$s</string>
+    <color name="mushrooms_color">#3B0B0B</color>
+    
+    <string-array name="January_Mushrooms">
+        <item>Austernpilz</item>
+        <item>Champignons</item>
+        <item>Kräuterseitlinge</item>
+        <item>Shiitake</item>
+    </string-array>
+    <string-array name="February_Mushrooms">
+        <item>Austernpilz</item>
+        <item>Champignons</item>
+        <item>Kräuterseitlinge</item>
+        <item>Shiitake</item>
+    </string-array>
+    <string-array name="March_Mushrooms">
+        <item>Austernpilz</item>
+        <item>Champignons</item>
+        <item>Kräuterseitlinge</item>
+        <item>Morcheln</item>
+        <item>Shiitake</item>
+    </string-array>
+    <string-array name="April_Mushrooms">
+        <item>Austernpilz</item>
+        <item>Champignons</item>
+        <item>Kräuterseitlinge</item>
+        <item>Morcheln</item>
+        <item>Shiitake</item>
+    </string-array>
+    <string-array name="May_Mushrooms">
+        <item>Austernpilz</item>
+        <item>Champignons</item>
+        <item>Eierschwämme</item>
+        <item>Kräuterseitlinge</item>
+        <item>Morcheln</item>
+        <item>Shiitake</item>
+    </string-array>
+    <string-array name="June_Mushrooms">
+        <item>Austernpilz</item>
+        <item>Champignons</item>
+        <item>Eierschwämme</item>
+        <item>Kräuterseitlinge</item>
+        <item>Shiitake</item>
+        <item>Steinpilze</item>
+    </string-array>
+    <string-array name="July_Mushrooms">
+        <item>Austernpilz</item>
+        <item>Champignons</item>
+        <item>Eierschwämme</item>
+        <item>Kräuterseitlinge</item>
+        <item>Shiitake</item>
+        <item>Steinpilze</item>
+    </string-array>
+    <string-array name="August_Mushrooms">
+        <item>Austernpilz</item>
+        <item>Champignons</item>
+        <item>Eierschwämme</item>
+        <item>Kräuterseitlinge</item>
+        <item>Shiitake</item>
+        <item>Steinpilze</item>
+    </string-array>
+    <string-array name="September_Mushrooms">
+        <item>Austernpilz</item>
+        <item>Champignons</item>
+        <item>Eierschwämme</item>
+        <item>Kräuterseitlinge</item>
+        <item>Shiitake</item>
+        <item>Steinpilze</item>
+    </string-array>
+    <string-array name="October_Mushrooms">
+        <item>Austernpilz</item>
+        <item>Champignons</item>
+        <item>Eierschwämme</item>
+        <item>Kräuterseitlinge</item>
+        <item>Shiitake</item>
+        <item>Steinpilze</item>
+    </string-array>
+    <string-array name="November_Mushrooms">
+        <item>Austernpilz</item>
+        <item>Champignons</item>
+        <item>Eierschwämme</item>
+        <item>Kräuterseitlinge</item>
+        <item>Shiitake</item>
+    </string-array>
+    <string-array name="December_Mushrooms">
+        <item>Austernpilz</item>
+        <item>Champignons</item>
+        <item>Kräuterseitlinge</item>
+        <item>Shiitake</item>
+    </string-array>
+    
+</resources>

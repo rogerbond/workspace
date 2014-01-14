@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="menu_herbs">Anzeige Kräuter</string>
+    <string name="herbs_label">Kräuter - %1$s</string>
+    <color name="herbs_color">#0B610B</color>
+    
+    <string-array name="January_Herbs">
+        <item>Schnittlauch</item>
+    </string-array>
+    <string-array name="February_Herbs">
+        <item>Schnittlauch</item>
+    </string-array>
+    <string-array name="March_Herbs">
+        <item>Schnittlauch</item>
+    </string-array>
+    <string-array name="April_Herbs">
+        <item>Dill</item>
+        <item>Kerbel</item>
+        <item>Majoran</item>
+        <item>Oregano</item>
+        <item>Peterli</item>
+        <item>Pfefferminze</item>
+        <item>Salbei</item>
+        <item>Schnittlauch</item>
+        <item>Thymian</item>
+    </string-array>
+    <string-array name="May_Herbs">
+        <item>Dill</item>
+        <item>Kerbel</item>
+        <item>Majoran</item>
+        <item>Oregano</item>
+        <item>Peterli</item>
+        <item>Pfefferminze</item>
+        <item>Salbei</item>
+        <item>Schnittlauch</item>
+        <item>Thymian</item>
+    </string-array>
+    <string-array name="June_Herbs">
+        <item>Dill</item>
+        <item>Kerbel</item>
+        <item>Majoran</item>
+        <item>Oregano</item>
+        <item>Peterli</item>
+        <item>Pfefferminze</item>
+        <item>Salbei</item>
+        <item>Schnittlauch</item>
+        <item>Thymian</item>
+    </string-array>
+    <string-array name="July_Herbs">
+        <item>Basilikum</item>
+        <item>Dill</item>
+        <item>Kerbel</item>
+        <item>Majoran</item>
+        <item>Oregano</item>
+        <item>Peterli</item>
+        <item>Pfefferminze</item>
+        <item>Salbei</item>
+        <item>Schnittlauch</item>
+        <item>Thymian</item>
+    </string-array>
+    <string-array name="August_Herbs">
+        <item>Basilikum</item>
+        <item>Dill</item>
+        <item>Kerbel</item>
+        <item>Majoran</item>
+        <item>Oregano</item>
+        <item>Peterli</item>
+        <item>Pfefferminze</item>
+        <item>Salbei</item>
+        <item>Schnittlauch</item>
+        <item>Thymian</item>
+    </string-array>
+    <string-array name="September_Herbs">
+        <item>Basilikum</item>
+        <item>Dill</item>
+        <item>Kerbel</item>
+        <item>Majoran</item>
+        <item>Oregano</item>
+        <item>Peterli</item>
+        <item>Pfefferminze</item>
+        <item>Salbei</item>
+        <item>Schnittlauch</item>
+        <item>Thymian</item>
+    </string-array>
+    <string-array name="October_Herbs">
+        <item>Dill</item>
+        <item>Kerbel</item>
+        <item>Majoran</item>
+        <item>Oregano</item>
+        <item>Peterli</item>
+        <item>Pfefferminze</item>
+        <item>Salbei</item>
+        <item>Schnittlauch</item>
+        <item>Thymian</item>
+    </string-array>
+    <string-array name="November_Herbs">
+        <item>Peterli</item>
+        <item>Schnittlauch</item>
+    </string-array>
+    <string-array name="December_Herbs">
+        <item>Peterli</item>
+        <item>Schnittlauch</item>
+    </string-array>
+    
+</resources>
