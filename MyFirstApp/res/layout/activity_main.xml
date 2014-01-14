@@ -1,0 +1,29 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    >
+
+    <TextView
+        android:id="@+id/nachricht"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+    />
+    
+    <EditText
+        android:id="@+id/eingabe" 
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/vorname_nachname"
+        android:singleLine="true"
+        android:inputType="textCapWords"
+    />
+    
+    <Button
+        android:id="@+id/weiter_fertig"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="right" 
+    />
+
+</LinearLayout>
