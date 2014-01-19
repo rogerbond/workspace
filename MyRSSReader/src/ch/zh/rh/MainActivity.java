@@ -17,19 +17,17 @@ public class MainActivity extends Activity {
     super.onCreate(savedInstanceState);
     setContentView(R.layout.main);
   }
-  
+
   public View onCreateView (LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
     View rootView = inflater.inflate(R.layout.main, container, false);
     mRssFeed = (TextView) rootView.findViewById(R.id.rss_feed);
     return rootView;
   }
-	
-	
-	
+
 	private class GetAndroidPitRssFeedTask extends AsyncTask<Void, Void, String> {
 
 		@Override
-		protected String doInBackground(Void... voids) {
+		protected String doInBackground (Void... voids) {
 			String result = "";
 			try {
 				result = getAndroidPitRssFeed();
@@ -40,11 +38,11 @@ public class MainActivity extends Activity {
 		}
 
 		@Override
-		protected void onPostExecute(String rssFeed) {
+		protected void onPostExecute (String rssFeed) {
 			mRssFeed.setText(rssFeed);
 		}
-		
-		public String getAndroidPitRssFeed() throws IOException {
+
+		public String getAndroidPitRssFeed () throws IOException {
 			InputStream in = null;
 			try {
 				URL url = new URL("http://androitpit.com/feed/main.xml");
@@ -72,3 +70,5 @@ public class MainActivity extends Activity {
 	}
 
 }
+
+	
