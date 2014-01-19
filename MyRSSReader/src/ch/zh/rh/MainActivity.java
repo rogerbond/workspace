@@ -4,14 +4,56 @@ import android.app.*;
 import android.os.*;
 import android.view.*;
 import android.widget.*;
+import android.content.*;
+import android.util.*;
+import java.io.*;
+import java.net.*;
 
-public class MainActivity extends Activity
-{
-    /** Called when the activity is first created. */
-    @Override
-    public void onCreate(Bundle savedInstanceState)
-	{
-        super.onCreate(savedInstanceState);
-        setContentView(R.layout.main);
+public class MainActivity extends Activity {
+
+  public TextView mRssFeed = null;
+
+  /** Called when the activity is first created. */
+  @Override
+  public void onCreate (Bundle savedInstanceState) {
+    super.onCreate(savedInstanceState);
+    setContentView(R.layout.main);
+  }
+
+  @Override
+  public View onCreateView (LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
+    View rootView = inflater.inflate(R.layout.main, container, false);
+    mRssFeed = (TextView) rootView.findViewById(R.id.rss_feed);
+    return rootView;
+  }
+
+  @Override
+  protected void onStart () {
+    super.onStart();
+    InputStream in = null;
+    try {
+      URL url = new URL("http://androitpit.com/feed/main.xml");
+      HttpURLConnection connection = (HttpURLConnection) url.openConnection();
+      in = connection.getInputStream();
+      ByteArrayOutputStream out = new ByteArrayOutputStream();
+      byte[] buffer = new byte[1024];
+      for (int count; (count = in.read(buffer)) != -1;) {
+        out.write(buffer, 0, count);
+      }
+      byte[] response = out.toByteArray();
+      String rssFeed = new String(response, "UTF-8");
+      mRssFeed.setText(rssFeed);
+    } catch (IOException e) {
+      e.printStackTrace();
+    } finally {
+      if (in != null) {
+        try {
+          in.close();
+        } catch (IOException e) {
+          e.printStackTrace();
+        }
+      }
     }
+  }
+
 }
