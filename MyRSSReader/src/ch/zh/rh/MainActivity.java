@@ -4,8 +4,6 @@ import android.app.*;
 import android.os.*;
 import android.view.*;
 import android.widget.*;
-import android.content.*;
-import android.util.*;
 import java.io.*;
 import java.net.*;
 
@@ -19,15 +17,14 @@ public class MainActivity extends Activity {
     super.onCreate(savedInstanceState);
     setContentView(R.layout.main);
   }
-
-  @Override
+  
   public View onCreateView (LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
     View rootView = inflater.inflate(R.layout.main, container, false);
     mRssFeed = (TextView) rootView.findViewById(R.id.rss_feed);
     return rootView;
   }
-
-  @Override
+  
+@Override
   protected void onStart () {
     super.onStart();
     InputStream in = null;
